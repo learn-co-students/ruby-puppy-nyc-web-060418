@@ -22,8 +22,3 @@ def self.all
 end
 
 end
-
-
-lala = Dog.new("Lala")
-snoopy = Dog.new("Snoopy")
-tiger = Dog.new("Tiger")
